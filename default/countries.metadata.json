@@ -1,1 +1,1 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"id":{"$numberInt":"1"}},"name":"id"}],"uuid":"6d48b0d53f3a4f9190a60b38fba05f11","collectionName":"countries","type":"collection"}
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"id":{"$numberInt":"1"}},"name":"id"},{"v":{"$numberInt":"2"},"key":{"deleted":{"$numberInt":"1"}},"name":"deleted_1"}],"uuid":"6d48b0d53f3a4f9190a60b38fba05f11","collectionName":"countries","type":"collection"}
